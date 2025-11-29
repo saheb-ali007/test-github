@@ -3,10 +3,7 @@ Hello Git!
 Hey, I am Emon Khan.
 Hey, I am Saheb.
 Bangladesh is my country.
-We Live in, Dhaka is our Capital.
+We Live in, Dhaka is our Capita
 Hey, I am Rafisa.
-<<<<<<< Updated upstream
 hi
-=======
 Hello
->>>>>>> Stashed changes
